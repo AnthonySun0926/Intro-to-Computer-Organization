@@ -1,0 +1,35 @@
+9 8 7 10
+8454153
+8454144
+16842756
+16777218
+589825
+12648448
+4784129
+23461888
+25165824
+0
+0
+1
+2
+11
+6
+0
+9
+Glob1 U 0
+Five T 4
+GlobF U 0
+GlobD T 6
+First D 0
+One D 1
+Stack U 0
+0 lw First
+1 lw Glob1
+5 sw GlobF
+0 .fill GlobF
+1 .fill Glob1
+3 .fill four
+4 .fill local
+5 .fill GlobD
+6 .fill Stack
+7 .fill First

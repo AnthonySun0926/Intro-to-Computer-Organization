@@ -1,0 +1,31 @@
+7 7 5 11
+8454144
+8454146
+16842756
+16908286
+8585221
+12648448
+12713984
+5
+0
+7
+0
+2
+5
+9
+First U 0
+Glob1 T 2
+GlobD U 0
+Stack U 0
+GlobF D 0
+0 lw First
+1 lw Glob1
+4 lw local
+5 sw GlobD
+6 sw Stack
+1 .fill Stack
+2 .fill GlobF
+3 .fill GlobD
+4 .fill Glob1
+5 .fill local
+6 .fill data

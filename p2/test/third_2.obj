@@ -1,0 +1,19 @@
+2 6 3 7
+8454144
+8519680
+0
+2
+1
+3
+0
+2
+Glob1 U 0
+Global T 1
+Glob2 D 1
+0 lw Glob1
+1 lw loc
+0 .fill Glob1
+2 .fill Global
+3 .fill Glob2
+4 .fill loc
+5 .fill locd
